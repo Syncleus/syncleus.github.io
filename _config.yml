@@ -144,13 +144,11 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://www.facebook.com/Syncleus/"
+  - title: "google-plus"
+    url: "https://plus.google.com/u/0/b/102266131584900704956/102266131584900704956"
   - title: "github"
     url: "https://github.com/Syncleus"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
