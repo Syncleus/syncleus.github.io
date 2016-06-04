@@ -64,7 +64,7 @@ me-img: "/img/intro-logo.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+color-browser: "#272822"
 apple-status-bar-style: "black"
 
 ################
