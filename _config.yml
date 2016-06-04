@@ -164,6 +164,10 @@ social:
 
 # Sections shown in the index page
 
+nav_list:
+  About: ''
+  news: 'blog'
+  Contact: 'contact'
 pages_list:
   About: 'about'
   Blog: 'latest-post'

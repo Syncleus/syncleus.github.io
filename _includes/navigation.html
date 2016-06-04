@@ -26,9 +26,9 @@
         {% if page.section-type == "index" %}
 
           <!-- Scroll to section for each page in index -->
-          {% for p in site.pages_list %}
+          {% for p in site.nav_list %}
             <li>
-              <a class="page-scroll" href="#{{ p[1] }}"> {{p[0]}} </a>
+              <a class="page-scroll" href="/{{ p[1] }}"> {{p[0]}} </a>
             </li>
           {% endfor %}
 
