@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "<b>Leader<b> in Big Data for 14 years"
+  - text: "<b>Leader</b> in Big Data for 14 years"
   - tect: "<b>Solutions</b> to make your data work for you"
   - text: "<b>Innovator</b> of peer-reviewed algorithms"
 
