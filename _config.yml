@@ -110,6 +110,8 @@ syntax-highlight: True
 ############
 
 events:
+  - date: "December 2, 2009"
+    description: "dANN 1.0 Released"
   - image: "/img/timeline/BlueDotBlackCircle.png"
     date: "September 5, 2008"
     description: "Hyperassociative Map algorithm published."
