@@ -168,6 +168,7 @@ nav_list:
   About: ''
   news: 'blog'
   Contact: 'contact'
+  Projects: 'projects'
 pages_list:
   About: 'about'
   Blog: 'latest-post'
