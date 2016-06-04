@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Syncleus"
 title: "{ Syncleus }"
-description: "Syncleus corperate page."
-keywords: "Syncleus, Big Data, Machine Learning, Genetic Algorithms, Evolutionary Algorithms"
+description: "Introduction to Syncleus"
+keywords: "Syncleus, Big Data, Machine Learning, Genetic Algorithms, Evolutionary Algorithms. Data Analytics"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - tect: "<b>Solutions</b> to make your data work for you"
-  - text: "<b>Proven</b> innovator of novel Machine Learning algorithms"
   - text: "<b>Leader<b> in Big Data for 14 years"
+  - tect: "<b>Solutions</b> to make your data work for you"
+  - text: "<b>Innovator</b> of peer-reviewed algorithms"
 
 me-img: "/img/into-logo.png"
 
