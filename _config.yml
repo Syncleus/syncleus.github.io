@@ -165,9 +165,8 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
+  About: ''
+  news: 'news'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
