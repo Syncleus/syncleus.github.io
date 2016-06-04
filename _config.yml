@@ -110,28 +110,28 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/BlueDotBlackCircle.png"
     date: "September 5, 2008"
     description: "Hyperassociative Map algorithm published."
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/BlueDotBlackCircle.png"
     date: "August 23, 2008"
     description: "NCI compression algorithm published."
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/BlueDotBlackCircle.png"
     date: "April 19, 2007"
     description: "Syncleus incorperates, holding its first meeting of the Board of Directors."
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/BlueDotBlackCircle.png"
     date: "May 29, 2006"
     description: "Development on the open-source dANN Library for Machine Learning begins."
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/BlueDotBlackCircle.png"
     date: "July 2003"
     description: "Sporkie spam filter algorithm released."
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/BlueDotBlackCircle.png"
     date: "March 2002"
     description: "Open-source Syncleus project founded."
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/BlueDotBlackCircle.png"
 
 ###########
 # Contact #
