@@ -170,8 +170,8 @@ nav_list:
   news: 'blog'
   Contact: 'contact'
 pages_list:
-  About: 'about'
   Blog: 'latest-post'
+  About: 'about'
   Timeline: 'timeline'
 
 # Exclusion list from the generated _site
