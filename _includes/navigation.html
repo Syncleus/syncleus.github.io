@@ -34,7 +34,7 @@
 
         {% else %}
           <!-- Blog, Post, Tag and Error pages -->
-          {% for p in site.pages_list %}
+          {% for p in site.nav_list %}
             <li>
             {% if p[1] == "latest-post" %}
               {% if page.url == "/blog/index.html" | prepend: {{site.baseurl}} %}
@@ -43,7 +43,7 @@
                 <a href="{{site.baseurl}}/blog/"> {{p[0]}} </a>
               {% endif %}
             {% else %}
-                <a href="{{site.baseurl}}/#{{ p[1] }}"> {{p[0]}} </a>
+                <a href="{{site.baseurl}}/{{ p[1] }}"> {{p[0]}} </a>
             {% endif %}
             </li>
           {% endfor %}
