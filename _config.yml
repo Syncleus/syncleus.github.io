@@ -111,11 +111,23 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "September 5, 2008"
+    description: "Hyperassociative Map algorithm published."
+  - image: "/img/timeline/spidertocat.png"
+    date: "August 23, 2008"
+    description: "NCI compression algorithm published."
+  - image: "/img/timeline/spidertocat.png"
+    date: "April 19, 2007"
+    description: "Syncleus incorperates, holding its first meeting of the Board of Directors."
+  - image: "/img/timeline/spidertocat.png"
+    date: "May 29, 2006"
+    description: "Development on the open-source dANN Library for Machine Learning begins."
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "July 2003"
+    description: "Sporkie spam filter algorithm released."
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "March 2002"
+    description: "Open-source Syncleus project founded."
 
 # First image of the Timeline
 
