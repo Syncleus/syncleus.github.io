@@ -23,9 +23,6 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
       <ul class="nav navbar-nav">
-        <li>
-          <a class="page-scroll" href="http://wiki.syncleus.com"> Develop </a>
-        </li>
         {% if page.section-type == "index" %}
 
           <!-- Scroll to section for each page in index -->
@@ -51,6 +48,11 @@
             </li>
           {% endfor %}
         {% endif %}
+
+        <li>
+          <a class="page-scroll" href="http://wiki.syncleus.com"> Develop </a>
+        </li>
+
       </ul>
     </div>
   </div>
