@@ -202,9 +202,9 @@ social:
 
 nav_list:
   About: ''
-  Projects: 'projects'
+  Projects: 'projects.html'
   news: 'blog'
-  Contact: 'contact'
+  Contact: 'contact.html'
 pages_list:
   Blog: 'latest-post'
   About: 'about'
