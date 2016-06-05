@@ -15,8 +15,8 @@ If you would like to speak to someone over the phone, please leave your contact 
 <p align="left"><strong>Projects:</strong><br />
 <a title="mailto:projects@syncleus.com" rel="nofollow" href="mailto:projects@syncleus.com">General Projects</a> &#8211; questions regarding public projects<br />
 <a title="mailto:dann@syncleus.com" rel="nofollow" href="mailto:dann@syncleus.com">dANN</a> &#8211; dANN software project<br />
-<a title="mailto:dann@syncleus.com" rel="nofollow" href="mailto:ferma@syncleus.com">dANN</a> &#8211; FERMA software project<br />
-<a title="mailto:aide@syncleus.com" rel="nofollow" href="mailto:aide@syncleus.com">AIDE</a> &#8211; AIDE software project<br />
+<a title="mailto:ferma@syncleus.com" rel="nofollow" href="mailto:ferma@syncleus.com">Ferma</a> &#8211; Ferma software project<br />
+<a title="mailto:grail@syncleus.com" rel="nofollow" href="mailto:aide@syncleus.com">GRAIL</a> &#8211; AIDE software project<br />
 <a title="mailto:aide@syncleus.com" rel="nofollow" href="mailto:grail@syncleus.com">AIDE</a> &#8211; GRAIL software project
 </p>
 <p align="left"><strong>Sales:</strong><br />
