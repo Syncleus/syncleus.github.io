@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: GRAIL Project Initiated
-category: GRAIL
-tags: [ 'GRAIL' ]
+category: projects
+tags: [ 'GRAIL', 'Projects' ]
 ---
 
 dANN is being split up into multiple smaller projects and rewritten. The GRAIL project will serve as the new core layer for dANN and other libraries pulled out from dANN.
