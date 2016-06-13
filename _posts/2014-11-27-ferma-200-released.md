@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: The FERMA Project has Been Released!
+title: The FERMA Project has Been Released
 category: projects
 tags: [ 'ferma' ]
 ---
