@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/syncleus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://syncleus.com
+  * I am syncleus (https://keybase.io/syncleus) on keybase.
+  * I have a public key ASDjQPVT4_bCyTjfTH-hbRskmrBREgrfruXCuMFUHlWsGAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e340f553e3f6c2c938df4c7fa16d1b249ab051120adfaee5c2b8c1541e55ac180a",
+            "host": "keybase.io",
+            "kid": "0120e340f553e3f6c2c938df4c7fa16d1b249ab051120adfaee5c2b8c1541e55ac180a",
+            "uid": "9315ee55db6af9b9dfc16afcae345b19",
+            "username": "syncleus"
+        },
+        "service": {
+            "hostname": "syncleus.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470286939,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470286905,
+        "hash": "2d0c2d59e43c33408b42a377e9088312760f07bb19b534149db9adbc70db4f5ec5635afca1d4d3f78863a51c77e3fde3637c73138326219a95482114a38f4326",
+        "seqno": 558045
+    },
+    "prev": "4cfb070dd577aba1efeacbda28712373ff7632b38a12d155332c990e3759780d",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg40D1U+P2wsk430x/oW0bJJqwURIK367lwrjBVB5VrBgKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTM0MGY1NTNlM2Y2YzJjOTM4ZGY0YzdmYTE2ZDFiMjQ5YWIwNTExMjBhZGZhZWU1YzJiOGMxNTQxZTU1YWMxODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTM0MGY1NTNlM2Y2YzJjOTM4ZGY0YzdmYTE2ZDFiMjQ5YWIwNTExMjBhZGZhZWU1YzJiOGMxNTQxZTU1YWMxODBhIiwidWlkIjoiOTMxNWVlNTVkYjZhZjliOWRmYzE2YWZjYWUzNDViMTkiLCJ1c2VybmFtZSI6InN5bmNsZXVzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzeW5jbGV1cy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDcwMjg2OTM5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzAyODY5MDUsImhhc2giOiIyZDBjMmQ1OWU0M2MzMzQwOGI0MmEzNzdlOTA4ODMxMjc2MGYwN2JiMTliNTM0MTQ5ZGI5YWRiYzcwZGI0ZjVlYzU2MzVhZmNhMWQ0ZDNmNzg4NjNhNTFjNzdlM2ZkZTM2MzdjNzMxMzgzMjYyMTlhOTU0ODIxMTRhMzhmNDMyNiIsInNlcW5vIjo1NTgwNDV9LCJwcmV2IjoiNGNmYjA3MGRkNTc3YWJhMWVmZWFjYmRhMjg3MTIzNzNmZjc2MzJiMzhhMTJkMTU1MzMyYzk5MGUzNzU5NzgwZCIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBBjZv2kofezBRuM59UyLtrMigBuO3K1x/Xi9FwVkWNyBeWbO1pzglOOOQPoDn2qvCtWnn2vsBh5wvf/qNUne4IqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgshntBL0X7mIXDFGf7HRgKhZeyEAwNKVFoZAgPTTe+bKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/syncleus
+
+==================================================================
