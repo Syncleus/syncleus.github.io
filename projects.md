@@ -5,6 +5,10 @@ title: Projects
 ---
 # Projects
 
+## [Aparapi](https://github.com/Syncleus/aparapi)
+
+Aparapi allows Java developers to take advantage of the compute power of GPU and APU devices by executing data parallel code fragments on the GPU rather than being confined to the local CPU. It does this by converting Java bytecode to OpenCL at runtime and executing on the GPU, if for any reason Aparapi can't execute on the GPU it will execute in a Java thread pool.
+
 ## [Ferma](https://github.com/Syncleus/Ferma)
 
 An ORM / OGM for the TinkerPop graph stack. The Ferma project has been created as an alternative to the TinkerPop Frames project. Redesigned for performance and additional features. Annotated classes in Ferma have their abstract methods implemented using code generation during start-up with Byte Buddy, avoiding the need for proxy classes. This in turn significantly improves performance when compared with TinkerPop Frames.
