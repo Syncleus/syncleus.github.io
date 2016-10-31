@@ -7,7 +7,7 @@ title: Projects
 
 ## [Aparapi](https://github.com/Syncleus/aparapi)
 
-Aparapi allows Java developers to take advantage of the compute power of GPU and APU devices by executing data parallel code fragments on the GPU rather than being confined to the local CPU. It does this by converting Java bytecode to OpenCL at runtime and executing on the GPU. Code written for Aparapi can still run on the CPU and should still be portable to any system running Java.
+Aparapi allows Java developers to take advantage of the compute power of GPU and APU devices by executing data parallel code fragments on the GPU rather than being confined to the local CPU. It does this by converting Java bytecode to OpenCL at runtime and executing on the GPU. Code written for Aparapi can still run on the CPU and is portable to any system running Java.
 
 ## [Ferma](https://github.com/Syncleus/Ferma)
 
